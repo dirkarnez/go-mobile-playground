@@ -58,5 +58,5 @@ cd $current_directory && \
 (
     $USERPROFILE/Downloads/gopath/bin/gomobile init && \
     $USERPROFILE/Downloads/gopath/bin/gomobile  build -target android && \
-    read -p "sdasd"
+    read -p "ok"
 ) || read -p "not ok"
